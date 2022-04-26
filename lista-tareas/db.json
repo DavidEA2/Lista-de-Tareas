@@ -1,35 +1,34 @@
 {
-    "tasks":[
-        {
-            "id":1,
-            "text": "Terminar primer modulo de Angular",
-            "day": "Mayo a las 23:00",
-            "reminder": true
-        },
-        {
-            "id":2,
-            "text": "Terminar Modulo 8",
-            "day": "Mayo 23 a las 12:00",
-            "reminder": true
-        },
-        {
-            "id":3,
-            "text": "Terminar Empezar Modulo 9",
-            "day": "Mayo 24 a las 12:00",
-            "reminder": false
-        },
-        {
-            "id":4,
-            "text": "Terminar Portfolio",
-            "day": "Mayo 30 a las 12:00",
-            "reminder": false
-        },
-        {
-            "id":5,
-            "text": "Leer sobre el backend",
-            "day": "Mayo 15 a las 12:00",
-            "reminder": true
-        }
-
-    ]
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Terminar primer modulo de Angular",
+      "day": "Mayo a las 23:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Terminar Modulo 8",
+      "day": "Mayo 23 a las 12:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Terminar Empezar Modulo 9",
+      "day": "Mayo 24 a las 12:00",
+      "reminder": false
+    },
+    {
+      "text": "Terminar BackEnd",
+      "day": "Abril 24 a las 14",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Cenar",
+      "day": "Abril 23 a las 22",
+      "reminder": false,
+      "id": 5
+    }
+  ]
 }
